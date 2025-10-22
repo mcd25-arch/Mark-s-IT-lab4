@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         EditText et;
         String img;
 
-        et = (EditText) findViewById(R.id.edit_infile);
+        et = (EditText) findViewById(R.id.text_main);
         img = et.getText().toString();
         Uri web = Uri.parse(img);
         SimpleDraweeView draweeView = (SimpleDraweeView) findViewById(R.id.image_area);
