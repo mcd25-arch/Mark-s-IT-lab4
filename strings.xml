@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mark\'s lab 4</string>
+    <string name="edit_infile">Enter URL of Image</string>
+    <string name="displayimage">displayImage</string>
+</resources>
